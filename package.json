@@ -1,0 +1,16 @@
+{
+  "name": "MathAPI",
+  "version": "1.0.0",
+  "description": "To start server sun node `indes.js`. It will run on default port `3000`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon indes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
